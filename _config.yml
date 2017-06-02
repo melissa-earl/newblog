@@ -1,0 +1,11 @@
+# basic options
+title: Video Tutorial Practice
+author: Melissa
+email: your-email@domain.com
+description: A wonderful site
+twitter_username: jekyllrb
+github_username:  melissa-earl
+
+# Build settings
+markdown: kramdown
+theme: minima
