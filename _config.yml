@@ -8,4 +8,4 @@ github_username:  melissa-earl
 
 # Build settings
 markdown: kramdown
-theme: dbyll
+theme: minima
